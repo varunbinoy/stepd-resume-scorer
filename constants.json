@@ -1,6 +1,0 @@
-{
-  "cap_threshold": 6,
-  "metric_k": 0.8,
-  "shortlist_gt": 65,
-  "reject_lt": 30
-}
