@@ -18,8 +18,8 @@ div[data-testid="stDataFrame"] { border:2px solid #808080; border-radius:0px; bo
 </style>
 """, unsafe_allow_html=True)
 
-st.title("STEP D – Sales Resume Scorer (Explainable Version)")
-st.caption("Competency-based scoring • Evidence extraction • Recency bias • WorkEx risk flag")
+st.title("STEP D – Sales Resume Scorer ")
+st.caption("Competency-based scoring • Evidence extraction • Recency bias ")
 
 # Load config
 constants = json.loads((CONFIG / "constants.json").read_text())
