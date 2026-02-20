@@ -185,5 +185,5 @@ if "df" in st.session_state:
 
 
 st.markdown("---")
-st.caption("Heuristic explainable model. Recency bonus = 1 year. WorkEx extreme negative >=5 years.")
+st.caption("")
 
