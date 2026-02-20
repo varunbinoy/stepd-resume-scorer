@@ -95,13 +95,7 @@ def score_resume(raw_text):
     risks = []
 
     # WorkEx extreme negative
-    span = get_year_span(text)
-    if span and span >= 5:
-        risks.append({
-            "type":"Extreme WorkEx",
-            "reason":f"Estimated experience span {span} years (>=5)",
-            "evidence":["Year span detected from resume timeline"]
-        })
+    
 
 
     # Competency positives
