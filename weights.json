@@ -1,7 +1,0 @@
-{
-  "communication": 0.3,
-  "closing": 0.25,
-  "targets": 0.2,
-  "behavioral": 0.15,
-  "experience": 0.1
-}
